@@ -1,0 +1,7 @@
+COMPILAR:
+
+javac -classpath jfuzzylite-6.0.jar *.java
+
+EJECUTAR:
+
+javac -classpath jfuzzylite-6.0.jar;. SimuladorAutoAjuste
